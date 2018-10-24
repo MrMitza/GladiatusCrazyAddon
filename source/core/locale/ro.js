@@ -21,8 +21,8 @@ gca_languages['ro'] = {
 			days : "zile",
 			minutes : "minute",
 			no_data : "Nu există date",
-			confirm : "Confirma",
-			cancel : "Cancel",
+			confirm : "Confirmă",
+			cancel : "Renunță",
 			close : "Închide",
 			error : "Eroare"
 		},
@@ -48,14 +48,14 @@ gca_languages['ro'] = {
 			online_friends : "Prieteni Online",
 			guild_friends : "Prietenii Breslei",
 			family_friends : "Prietenii Familiei",
-			donate_gold_confirm : "Esti sigur ca vrei sa donezi",
+			donate_gold_confirm : "Esti sigur că vrei să donezi",
 			donate_gold_success : "Aurul tău a fost donat",
 			donate_gold_failed : "Donarea aurului a eşuat",
 			donate_gold_all_gold : "Donează-ţi toţi banii",
 			quest_full : "Plin",
 			quest_new : "Nou",
 			notification_guild_application : "Există o aplicaţie în breaslă nerezolvată!",
-			gold_exp_data_to_level_up : "Zile rămase până la urmatorul nivel"
+			gold_exp_data_to_level_up : "Zile rămase până la următorul nivel"
 		},
 		overview : {
 		},
@@ -72,10 +72,10 @@ gca_languages['ro'] = {
 		training : {
 		},
 		auction : {
-			number_of_items : "Numarul obiectelor : {{number}}",
+			number_of_items : "Numărul obiectelor : {{number}}",
 			number_of_bided_items : "Numărul obiectelor licitate : {{number}}",
-			hide_your_gold_here : "Ascude-ţi aici aurul",
-			price_value_function : "Preţ = Valuare + {{number}}"
+			hide_your_gold_here : "Ascunde-ţi aici aurul",
+			price_value_function : "Preţ = Valoare + {{number}}"
 		},
 		markets : {
 		},
@@ -85,7 +85,7 @@ gca_languages['ro'] = {
 		},
 		settings : {
 			settings : "Setări",
-			description : "Permite sau dezactivează oricare trăsătura caracteristică a addonului pe care o vrei!",
+			description : "Permite sau dezactivează oricare trăsătură caracteristică a addonului pe care o vrei!",
 			description_click_button : "Fă click pe butonul de mai jos pentru a merge la setările addonului",
 			category_global : "Setări Generale",
 			category_overview : "Previzualizează setările",
@@ -97,7 +97,7 @@ gca_languages['ro'] = {
 			category_guild : "Setări pentru breaslă",
 			category_auction : "Setarile licitaţiilor",
 			category_global$language_select : "Schimbare adăugată limbii",
-			category_global$sound_notifications : "Permite sonor pentru notificările misiunilor, temniţelor şi arenelor",
+			category_global$sound_notifications : "Permite sunet pentru notificările misiunilor, temniţelor şi arenelor",
 			category_global$extended_hp_xp_info : "Afişează extinderea vieţii şi a experienţei pe informaţiile de antet",
 			category_global$shortcuts_bar : "Afişează bara de la capătul paginii",
 			category_global$auction_status_bar : "Afişează bara licitaţiilor",
